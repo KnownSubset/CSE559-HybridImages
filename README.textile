@@ -1,13 +1,21 @@
     
 h3. 1)Favorite two results
- !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/hotdog-filtered.jpg!   !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/hotdog.jpg!   !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/dog hotdog.jpg!  
- !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/guitar-filtered.jpg!   !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/ukeleli.jpg!  !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/guitar.jpg!
+
+ "HotDog Filtered":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/hotdog-filtered.jpg
+ "Hot Dog used as Low Frequency":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/hotdog.jpg
+ "Dog as Hot Dog used as High Frequency":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/dog hotdog.jpg
+
+ "Guitar Filtered":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/guitar-filtered.jpg
+ "Ukulele used as Low Frequency":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/ukelele.jpg
+ "Guitar used as High Frequency":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/guitar.jpg
 
 h3. 2)At least two more results, including on that doesn't work very well (a failure example). Explain why the good results were so, and why the failure case
+
  !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/batmobile2.jpg!   !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/1960s_Batmobile.jpg!   !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/batmobile-filtered.jpg!  
 
 h3. 3)Extensions
-    I made a _compelling_ hybrid image from two different images of the same scene.  The images came from Eirik Solheim's gallery ??The four seasons in Norway 10mm HDR??. !www.flickr.com/photos/eirikso/sets/72157611683788489/!
+
+    I made a _compelling_ hybrid image from two different images of the same scene.  The images came from Eirik Solheim's gallery "??The four seasons in Norway 10mm HDR??":http://www.flickr.com/photos/eirikso/sets/72157611683788489/.
 
  !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/summer-fall-filtered.jpg! !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/summer.jpg! !https://github.com/KnownSubset/CSE559-HybridImages/blob/master/fall.jpg!
 
