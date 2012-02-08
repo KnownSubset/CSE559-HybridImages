@@ -3,7 +3,7 @@ h3. 1) Favorite two results
 
  "HotDog Filtered":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/hotdog-filtered.jpg
  "Hot Dog used as Low Frequency":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/hotdog.jpg
- !dog hotdog.jpg(Dog as Hot Dog used as High Frequency)!
+ !blob/master/hotdog.jpg(Dog as Hot Dog used as High Frequency)!
  "Dog as Hot Dog used as High Frequency":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/dog hotdog.jpg
 
  "Guitar Filtered":https://github.com/KnownSubset/CSE559-HybridImages/blob/master/guitar-filtered.jpg
