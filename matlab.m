@@ -1,8 +1,8 @@
 %HighFiImage = im2double(imread('http://cvcl.mit.edu/hybrid/littledog.jpg'))/255;
 %LowFiImage = im2double(imread('http://cvcl.mit.edu/hybrid/cat2.jpg'))/255;
-HighFiImage = im2double(imread('/home/cec/temp/nd3/cse559/summer.jpg'))/255;
+HighFiImage = im2double(imread('/Users/nathan/Development/CSE559-HybridImages/summer.jpg'))/255;
 HighFiImage = rgb2gray(HighFiImage);
-LowFiImage = im2double(imread('/home/cec/temp/nd3/cse559/fall.jpg'))/255;
+LowFiImage = im2double(imread('/Users/nathan/Development/CSE559-HybridImages/fall.jpg'))/255;
 LowFiImage = rgb2gray(LowFiImage);
 
 hs =50;
@@ -29,6 +29,10 @@ LaplacianFilteredImage = LowFiImage - LowFiImageFiltered;
 %figure(3), imagesc(log(abs(fftshift(FftLowFiImage)))), axis image
 figure(4), imagesc(LaplacianFilteredImage);
 
-figure(5), imagesc(LaplacianFilteredImage + HighFiImageFiltered);
-figure(5), imshow(LaplacianFilteredImage + HighFiImageFiltered);
-figure(5), imagesc(LaplacianFilteredImage + HighFiImageFiltered), axis image;
+
+HybridImage = real(LaplacianFilteredImage + HighFiImageFiltered);
+HybridImage = HybridImage - min(min(HybridImage));
+HybridImage = HybridImage / max(max(HybridImage));
+
+figure(5), imagesc(HybridImage), colormap gray, axis off, axis image, title('Hybrid Image');
+imwrite(HybridImage, '/Users/nathan/Development/CSE559-HybridImages/summer-fall-filtered.jpg');
