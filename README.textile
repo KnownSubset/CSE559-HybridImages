@@ -1,0 +1,12 @@
+    
+h1. Favorite two results
+ !"hotdog-filtered.jpg"!   !"hotdog.jpg"!   !"dog hotdog.jpg"!  
+ !"guitar-filtered.jpg"!   !"ukeleli.jpg"!  !"guitar.jpg"!
+
+h2. At least two more results, including on that doesn't work very well (a failure example). Explain why the good results were so, and why the failure case
+ !"batmobile2.jpg"!   !"1960s_Batmobile.jpg"!   !"batmobile-filtered.jpg"!  
+
+h3. Extensions
+    Similar discussion for each of the extensions. 
+
+ !"summer-fall-filtered.jpg"! !"summer.jpg"! !"fall.jpg"!
