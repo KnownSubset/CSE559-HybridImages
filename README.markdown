@@ -39,6 +39,8 @@ ___
     >HybridImage = GaussianImageFiltered + LaplacianFilteredImage;
     ```
 
+This general outline of the algorithm was used to generate the hybrid images as you can see by checking out the files located on this site.  The only part of the process that needed careful tweaking is the cutoff frequency.
+
 ##Results    
 
 
