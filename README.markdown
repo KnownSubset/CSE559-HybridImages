@@ -64,7 +64,7 @@ _______
 
 _______
 
-These two images are able to produce a hybrid image that works reasonably well.  The results would work beter if the angle that the skull and the body angle were aligned.  There were no images of full skeleton in a similiar pose to the one of Buffalo Bill that would have made a better hybrid image.
+These two images are able to produce a hybrid image that works reasonably well.  The results would work better if the angle of the skull and the body were aligned.  There were no images of full skeleton in a similiar pose to the one of Buffalo Bill that would have made a better hybrid image.  Or if I could have found the skeleton minus the skull, the hybrid of person and the skeletal frame outline would produce a good hybrid.
 
 ![Buffalo Bill Hybrid](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/buffaloBill-filtered.jpg "Buffalo Bill Filtered")
 ![Old-timey Buffalo Bill](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/BuffaloBill.JPG "Old-timey Buffalo Bill")
