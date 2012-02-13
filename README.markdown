@@ -64,6 +64,8 @@ _______
 
 _______
 
+These two images are able to produce a hybrid image that works reasonably well.  The results would work beter if the angle that the skull and the body angle were aligned.  There were no images of full skeleton in a similiar pose to the one of Buffalo Bill that would have made a better hybrid image.
+
 ![Buffalo Bill Hybrid](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/buffaloBill-filtered.jpg "Buffalo Bill Filtered")
 ![Old-timey Buffalo Bill](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/BuffaloBill.JPG "Old-timey Buffalo Bill")
 ![Skull](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/skull.png "Skull")
@@ -80,7 +82,7 @@ _______
 
 * Extensions
 
-	I made a _compelling_ hybrid image from two different images of the same scene.  The images came from Eirik Solheim's gallery [The four seasons in Norway 10mm HDR](http://www.flickr.com/photos/eirikso/sets/72157611683788489/)
+	I made a _compelling_ hybrid image from two different images of the same scene.  There was no need to try and align the images since they came from the same scene;  all the work revolved around altering the the cut-off frequency.  I had to ensure that the outline of the folliage came through in the hybrid and that the folliage did not obsurce the branches. The images came from Eirik Solheim's gallery [The four seasons in Norway 10mm HDR](http://www.flickr.com/photos/eirikso/sets/72157611683788489/)
 
 ![Summer Fall Hybrid](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/summer-fall-filtered.jpg "Summer Fall Hybrid")
 ![Summer](https://github.com/KnownSubset/CSE559-HybridImages/raw/master/summer.jpg "Summer")
